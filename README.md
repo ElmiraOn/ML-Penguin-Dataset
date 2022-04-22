@@ -11,23 +11,23 @@ to predict the species of a given penguin.
 # Dataset
 
 The Penguin dataset contains following attributes:
-o species: penguin species (Chinstrap, Adélie, or Gentoo)
-o culmen_length_mm: culmen length (mm)
-o culmen_depth_mm: culmen depth (mm)
-o flipper_length_mm: flipper length (mm)
-o body_mass_g: body mass (g)
-o island: island name (Dream, Torgersen, or Biscoe) in the Palmer Archipelago (Antarctica)
-o sex: penguin sex
+* species: penguin species (Chinstrap, Adélie, or Gentoo)
+* culmen_length_mm: culmen length (mm)
+* culmen_depth_mm: culmen depth (mm)
+* flipper_length_mm: flipper length (mm)
+* body_mass_g: body mass (g)
+* island: island name (Dream, Torgersen, or Biscoe) in the Palmer Archipelago (Antarctica)
+* sex: penguin sex
 
 The target attribute: species
 
-#Installation
+# Installation
 To develop this project Jupyter Notebooks and Anaconda are used. You can install Anaconda from [here](https://docs.anaconda.com/anaconda/install/index.html).
 Then either use Jupyter Labs or jupyter notebook extension to open the files. 
 You can also view the project on Kaggle [here](https://www.kaggle.com/code/elmirao/predict-penguin-species)
 
 
-#Credits
+# Credits
 ### Palmer Archipelago (Antarctica) penguin data: 
 Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.
 License & citation
@@ -38,5 +38,5 @@ and Environmental Variability within a Community of Antarctic Penguins (Genus Py
 ONE 9(3): e90081. doi:10.1371/journal.pone.0090081
 [citation](https://github.com/allisonhorst/palmerpenguins/blob/master/README.md)
 
-#License
+# License
 CC-0 license
