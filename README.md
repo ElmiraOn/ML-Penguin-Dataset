@@ -22,9 +22,9 @@ The Penguin dataset contains following attributes:
 The target attribute: species
 
 # Installation
-To develop this project Jupyter Notebooks and Anaconda are used. You can install Anaconda from [here](https://docs.anaconda.com/anaconda/install/index.html).
+To develop this project Jupyter Notebooks and Anaconda are used. You can install Anaconda from [here](https://docs.anaconda.com/anaconda/install/index.html){:target="\_blank"}.
 Then either use Jupyter Labs or jupyter notebook extension to open the files. 
-You can also view the project on Kaggle [here](https://www.kaggle.com/code/elmirao/predict-penguin-species)
+You can also view the project on Kaggle [here](https://www.kaggle.com/code/elmirao/predict-penguin-species){:target="\_blank"}
 
 
 # Credits
